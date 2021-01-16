@@ -1,4 +1,4 @@
-baseURL = "http://yentran.org"
+baseURL = "https://yentran.org"
 languageCode = "en-us"
 title = "Yen's blog"
 theme = "ananke"
