@@ -1,0 +1,6 @@
+[submodule "themes/icarus"]
+	path = themes/icarus
+	url = https://gitlab.com/toryanderson/hugo-icarus.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
