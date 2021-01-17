@@ -31,9 +31,3 @@ title: Sports I would watch
 1. Soccer
 1. Volleyball (not beach)
 1. Tennis
-
-... and many sports later
-
-Football  
-Basketball  
-Baseball

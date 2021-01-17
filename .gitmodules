@@ -6,5 +6,5 @@
 	url = https://github.com/budparr/gohugo-theme-ananke.git
 [submodule "public"]
 	path = public
-	url = https://github.com/dinhyen/dinhyen.github.io.git
+	url = git@github.com:dinhyen/dinhyen.github.io.git
 	branch = master

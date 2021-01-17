@@ -4,9 +4,6 @@ categories:
 date: "2011-07-19T00:00:00Z"
 tags:
 - drawing
-- Julianne Moore
-- pencil
-- portrait
 title: Drawing hair with pencil
 ---
 <img title="BlendingStumpsEraser" src="http://yentran.isamonkey.org/gallery/images/blendingstumpseraser-150x150.jpg" />

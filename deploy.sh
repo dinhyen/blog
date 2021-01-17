@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# git submodule add --force -b master git@github.com:dinhyen/dinhyen.github.io.git public
+
 # If a command fails then the deploy stops
 set -e
 
