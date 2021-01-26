@@ -46,5 +46,3 @@ Last morning in Québec. We took a 5-minute walk to check out the cool murals we
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/quebec-3/dsc_2733.jpg" />
 </figure>
-
-</div>

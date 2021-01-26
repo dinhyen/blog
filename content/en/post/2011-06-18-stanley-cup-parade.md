@@ -79,5 +79,3 @@ The crowd was fraught with anticipation. Someone yelled out, "They just left the
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/stanley-cup-2011/dsc_0394.jpg" />
 </figure>
-
-</div>

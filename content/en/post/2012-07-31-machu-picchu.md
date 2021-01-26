@@ -824,5 +824,3 @@ Machu Picchu is an indescribable experience. We only hope this won't be the last
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/peru-machu-picchu/dsc_3696.jpg" />
 </figure>
-
-</div>

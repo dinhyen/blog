@@ -166,5 +166,3 @@ Despite its short length (1.8 mile round-trip between the parking lot and the tr
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5262.jpg" />
 </figure>
-
-</div>

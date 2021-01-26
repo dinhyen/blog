@@ -97,5 +97,3 @@ PS: Thanks to Kate for the title
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/chihuly/persianceilingcollage.jpg" />
 </figure>
-
-</div>

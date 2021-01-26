@@ -264,5 +264,3 @@ After a short descent, we reached the wide graveled Hemlock path, which leads ba
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5698.jpg" />
 </figure>
-
-</div>

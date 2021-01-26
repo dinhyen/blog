@@ -114,5 +114,3 @@ Everything in this resort was huge. The ceiling on the ground floor must be 30 f
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/costa-rica-4/dsc_1084.jpg" />
 </figure>
-
-</div>

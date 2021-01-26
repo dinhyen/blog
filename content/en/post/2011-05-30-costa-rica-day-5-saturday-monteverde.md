@@ -109,5 +109,3 @@ Our fellow tourists at the ranarium were a Belgian/Dutch couple from Stokkem, Be
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_1156.jpg" />
 </figure>
-
-</div>

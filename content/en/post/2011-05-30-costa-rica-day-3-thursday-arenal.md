@@ -121,5 +121,3 @@ Finally some relaxation after two travel-heavy days.  For dinner we came back t
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/costa-rica-3/dsc_0767.jpg" />
 </figure>
-
-</div>

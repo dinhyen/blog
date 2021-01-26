@@ -20,7 +20,7 @@ The ChargePoint Home Flex charger is quite a bit of an upgrade.  Here are some o
 - Wi-Fi connectivity 
 - It's managed with the same ChargePoint app that we use to find charging stations for "refueling" while on the road
 - The charging cord is one of the longest available at 23-feet
-- Out of the box it can be installed in either a or a hard-wired configuration, the latter enabling for the fastest charging rates
+- Out of the box it can be installed in either a plug-in or a hard-wired configuration, the latter enabling for the fastest charging rates
 - It's available with either a NEMA 6-50 or 14-50 plug
 
 Our current charger uses a NEMA 6-50 plug, so being able to have that option means that we can just take out the old charger and plug in the new one.  We're also fortunate to having done the wiring with 6-gauge wire, so we can support the fastest charging rate of 50

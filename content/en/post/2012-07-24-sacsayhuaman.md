@@ -156,5 +156,3 @@ Postscript: We had mentally prepared for jokes about Sacsayhuamán, which sounds
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2229.jpg" />
 </figure>
-
-</div>

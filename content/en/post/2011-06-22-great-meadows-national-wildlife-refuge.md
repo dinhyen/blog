@@ -44,5 +44,3 @@ After the chaos and excitement that was the [Bruins Stanley Cup parade](http://w
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/great-meadows/dsc_0428.jpg" />
 </figure>
-
-</div>

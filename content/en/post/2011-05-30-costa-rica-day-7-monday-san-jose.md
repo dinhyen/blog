@@ -70,5 +70,3 @@ San Jose has its interesting sides, but we'd much prefer to be in the forest and
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0996(2).jpg" />
 </figure>
-
-</div>

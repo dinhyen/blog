@@ -66,5 +66,3 @@ Along with [Emery Path](http://www.yentran.org/blog/2012/07/acadia-national-park
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/acadia-jesup/dsc_5764.jpg" />
 </figure>
-
-</div>

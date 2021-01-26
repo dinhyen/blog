@@ -86,5 +86,3 @@ A last look at the Bubble Rock from the Park Loop Road.
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5502a.jpg" />
 </figure>
-
-</div>

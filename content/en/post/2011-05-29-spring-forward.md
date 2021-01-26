@@ -133,5 +133,3 @@ There is really no best single place to go enjoy the spring, because it occurs a
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/spring-2011/wilsonfarmtulips.jpg" />
 </figure>
-
-</div>

@@ -66,5 +66,3 @@ We walked on the winding, narrow streets, visited the old cemetery and toured th
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/marblehead/dsc_6149.jpg" />
 </figure>
-
-</div>

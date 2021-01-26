@@ -84,5 +84,3 @@ Great Head sticks out like a polyp from the southwest corner of Mount Desert Isl
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/acadia-great-head/dsc_5905.jpg" />
 </figure>
-
-</div>

@@ -57,5 +57,3 @@ I'll have more to write about the Audubon sanctuaries in the future.
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0510.jpg" />
 </figure>
-
-</div>

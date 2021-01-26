@@ -46,20 +46,18 @@ One side of the Citadelle is fenced so you can't come to the edge of the "moat",
 
 After an excellent veal dinner at where else but Le Veau d'Or, we headed down to the vicinity of the old port for the Cirque de Soleil show, [Les Chemins Invisibles](http://en.wikipedia.org/wiki/Les_Chemins_invisibles). It took place inside a fenced off area below highway overpasses.  This was only 6-7 blocks from our B&amp;B, so we definitely lucked out on the location. The place was packed, though not as much as you'd think for a free performance by the troupe.  There were some trapeze and acrobatic acts and some other acts accompanied by a pounding soundtrack.  I wasn't really a fan before and I wasn't gonna start now.  We headed off to the Vieux-Port to see the Moulin de l'Images. The Vieux-Port was practically next door.  Again staying near the center of the city paid off.  Turned out the spectacle was projected movie clips and images on the wall of a 20-story warehouse/ factory on the riverfront.  I though the images were annoyingly fuzzy until Kate pointed out it was 3-D.  Silly me!  3-D was useless without glasses, not to mention the content was meaningless to us without some context.  We called it a day, a productive one at that.  We were quite impressed that there were so many events that made such a attractive city even more appealing.
 
-<div class="darkbox">
-  <figure>
-    <img src="http://yentran.isamonkey.org/gallery/quebec-1/dsc_1969.jpg" />
-  </figure>
-  <figure>
-    <img src="http://yentran.isamonkey.org/gallery/quebec-1/dsc_1987.jpg" />
-  </figure>
-  <figure>
-    <img src="http://yentran.isamonkey.org/gallery/quebec-1/dsc_1997.jpg" />
-  </figure>
-  <figure>
-    <img src="http://yentran.isamonkey.org/gallery/quebec-1/dsc_2002.jpg" />
-  </figure>
-</div>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-1/dsc_1969.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-1/dsc_1987.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-1/dsc_1997.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-1/dsc_2002.jpg" />
+</figure>
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/quebec-1/dsc_1969.jpg" />
 </figure>
@@ -285,5 +283,3 @@ After an excellent veal dinner at where else but Le Veau d'Or, we headed down to
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/quebec-1/dsc_2373.jpg" />
 </figure>
-
-</div>

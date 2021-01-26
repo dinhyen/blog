@@ -446,5 +446,3 @@ In the relatively short span of their civilization, the Incas have left many tre
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4189.jpg" />
 </figure>
-
-</div>

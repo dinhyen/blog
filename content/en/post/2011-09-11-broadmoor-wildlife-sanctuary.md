@@ -84,5 +84,3 @@ Unfortunately we didn't see many of our avian friends the last time we were ther
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3716.jpg" />
 </figure>
-
-</div>

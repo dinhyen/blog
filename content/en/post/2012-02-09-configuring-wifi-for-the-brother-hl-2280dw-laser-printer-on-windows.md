@@ -132,5 +132,3 @@ For various reasons, I want the printer to use a static instead of dynamic IP ad
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/brother-printer/wireless-wps.png" />
 </figure>
-
-</div>

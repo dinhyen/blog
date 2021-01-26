@@ -122,5 +122,3 @@ The estimable GPS put us at a warehouse.  Clearly not the delightful and luxuri
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/costa-rica-2/dsc_0423.jpg" />
 </figure>
-
-</div>

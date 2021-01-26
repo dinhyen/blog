@@ -121,5 +121,3 @@ Every season in Boston has its own riveting appeal.  The fall is not only the mo
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/head-of-the-charles-2010/dsc_5037.jpg" />
 </figure>
-
-</div>

@@ -72,5 +72,3 @@ The tallest peak in Acadia and the first place in the continental US to see the 
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/acadia-cadillac/dsc_5966.jpg" />
 </figure>
-
-</div>

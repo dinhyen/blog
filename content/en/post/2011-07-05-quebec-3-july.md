@@ -168,5 +168,3 @@ Back in St-Roch we found a big crowd in front of the church. Turned out there wa
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2684.jpg" />
 </figure>
-
-</div>

@@ -91,5 +91,3 @@ The trail systems here were partly created by the [Civilian Conservation Corps](
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/monadnock/dsc_3545.jpg" />
 </figure>
-
-</div>

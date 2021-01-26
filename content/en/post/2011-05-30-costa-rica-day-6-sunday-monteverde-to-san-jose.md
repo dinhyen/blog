@@ -138,5 +138,3 @@ As expected, San Jose was a maze to navigate.  After checking in, we headed out
 <figure>
   <img src="http://yentran.isamonkey.org/gallery/costa-rica-6/dsc_0929(2).jpg" />
 </figure>
-
-</div>
