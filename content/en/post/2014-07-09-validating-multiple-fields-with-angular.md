@@ -1,8 +1,9 @@
 ---
 categories:
 - technology
-comments: true
 date: "2014-07-09T00:00:00Z"
+tags:
+- angularjs
 title: Validating multiple fields with Angular
 ---
 Angular makes it simple to validate a single form field.  Validating multiple fields requires a bit more work.  The approach that works for me is use a directive to lay out the framework, but to perform the actual validation in the parent scope.  Since the user defines the specifics of the validation, any arbitrary validation can be performed and the directive can be kept simple.

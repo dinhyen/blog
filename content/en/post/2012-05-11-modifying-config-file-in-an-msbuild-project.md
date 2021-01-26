@@ -3,10 +3,8 @@ categories:
 - technology
 date: "2012-05-11T00:00:00Z"
 tags:
-- hudson
+- hudson ci
 - msbuild
-- xmlpeek
-- xmlpoke
 title: Modifying .config file in an MSBuild project
 ---
 We use [Hudson](http://hudson-ci.org) to deploy our web application to different environments such as QA, demo and production. We need to customize the web.config, primarily the database connection string, for each environment . Previously we had to maintain multiple copies of the web.config and copy the appropriate one for each deployment destination.  Obviously keeping around different versions of the same file is far from ideal.

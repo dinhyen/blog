@@ -4,10 +4,8 @@ categories:
 date: "2011-09-07T00:00:00Z"
 tags:
 - book review
-- Child of Blood
-- Elizabeth Haydon
+- elizabeth haydon
 - fantasy
-- novel
 title: 'Rhapsody: Child of Blood by Elizabeth Haydon'
 ---
 <img class="pull-left" title="rhapsodychildofblood" src="http://yentran.isamonkey.org/gallery/images/rhapsodychildofblood-180x300.jpg" width="180" height="300" />I was attracted to Rhapsody, the first book of the Rhapsody trilogy, by way of its critical acclaim as one of the best fantasy debut in years. The book does not disappoint. It's a marvellously executed masterpiece of high fantasy in the tradition of Tolkien that we all know and love. The characters are original and wonderfully appealing, the setting at once exotic and beautiful. Elizabeth Haydon brings to life a rarity in modern fantasy fiction: a female protagonist. In Rhapsody, the eponymous heroine is a young woman, half-human, half-Lirin (something akin to an elven race), a musician, singer, and Namer, the latter being a practioner of an art that allows her to create magic by invoking qualities associated with the name of someone or something. Being on the run from villains, she unwittingly enlists the help of two mysterious characters: a hideous, deadly assassin and a monstrous, wisecracking military sergeant. Both are themselves fugitives from an ancient, omnipotent evil. Together they embark on a long journey through the center of the world, and find themselves in a strange new land, in a time that may have been centuries removed from their own. With all that they have ever known long gone, they must struggle to explore their new world and combat a horror that may have followed them from the old world. Tied into all of this is the fate of two young lovers who are brought together for the briefest moments before being flung centuries apart.

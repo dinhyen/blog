@@ -1,21 +1,12 @@
 ---
 categories:
-- photography
 - travel
 date: "2012-08-07T00:00:00Z"
-meta:
-  _edit_last: "1"
-  _thumbnail_id: "1504"
-  _wp_old_slug: ollantaytambo-peru
-  aktt_notify_twitter: "no"
-published: true
-status: publish
 tags:
 - inca
 - peru
 - ruins
 title: Ollantaytambo, Peru (Day 6)
-type: post
 ---
 On our last day in Peru, our flight from Cusco wouldn't be until 15h30.  Until then we could either wander around Cusco or use our Boleto Turístico to explore the other ruins on the outskirts of Cusco ([Puca Pucara](http://en.wikipedia.org/wiki/Puca_Pucara), [Q'enqo](http://en.wikipedia.org/wiki/Kenko,_Peru) and [Tambomachay](http://en.wikipedia.org/wiki/Tambomachay)).  However, we had heard really good things about Ollantaytambo.  As it turned out, when we returned from Machu Picchu the night before, Lima Tours sent a driver to pick us up at Ollantaytambo.  During the trip, we talked to him, initially in Spanish.  Then we found out that he had been learning English and wanted to practice, so we carried on in both languages.  He's from the town of Urubamba, which we had to pass through on the way to Ollantaytambo, and comes from a indigenous family with 5 siblings.  The car is his family car and he uses it to shuffle tourists, usually to and from Cusco. His mom spoke only Quechua, and he taught us a few words of the tongue-twisting language of the Incas.  He was a genuinely nice guy, and moreover a descendant of a people whom we greatly admire.  It didn't take us long to decide to make a deal with him for a return to Ollantaytambo.  We agreed on a price, S./150 , and that he would pick us up at our hotel the next day at 7h00.
 
@@ -187,275 +178,273 @@ This was the best thing at the airport, a reproduction of an enormous sun disc.
 
 In the relatively short span of their civilization, the Incas have left many treasures that are no less magnificent and awe-inspiring.
 
-<!-- Darkbox -->
-<div class="darkbox">
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3788a.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3788a.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3789.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3789.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3797.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3797.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3799.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3799.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3805.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3805.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3819a.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3819a.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3824.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3824.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3826a.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3826a.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3834.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3834.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3836.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3836.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3842.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3842.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3849a.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3849a.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3856.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3856.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3858.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3858.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3861.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3861.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3866.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3866.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3870.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3870.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3871.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3871.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3874.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3874.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3877.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3877.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3886.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3886.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3891.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3891.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3897.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3897.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3900.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3900.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3915.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3915.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3916.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3916.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3921.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3921.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3922.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3922.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3925.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3925.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3930.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3930.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3931.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3931.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3935.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3935.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3938.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3938.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3941.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3941.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3943.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3943.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3946.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3946.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3949.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3949.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3951.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3951.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3952.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3952.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3957.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3957.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3964.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3964.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3968.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3968.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3973.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3973.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3981.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3981.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3985.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3985.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3988.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3988.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3989.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3989.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3992.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3992.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3995.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3995.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3997.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_3997.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4004.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4004.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4012.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4012.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4015a.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4015a.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4017a.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4017a.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4018a.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4018a.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4020a.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4020a.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4025.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4025.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4026.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4026.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4029a.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4029a.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4033a.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4033a.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4040.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4040.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4042.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4042.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4048.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4048.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4049.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4049.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4051.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4051.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4053.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4053.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4068.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4068.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4072.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4072.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4073.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4073.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4079.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4079.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4082.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4082.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4083.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4083.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4084.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4084.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4090a.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4090a.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4095a.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4095a.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4098.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4098.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4102.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4102.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4109.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4109.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4113.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4113.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4123.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4123.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4132.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4132.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4133.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4133.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4135.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4135.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4146.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4146.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4150.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4150.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4151.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4151.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4164.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4164.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4175.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4175.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4189.jpg" data-darkbox="peru-ollantaytambo">
-  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/thumbs/dsc_4189.jpg" />
-</a>
+
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3788a.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3789.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3797.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3799.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3805.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3819a.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3824.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3826a.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3834.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3836.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3842.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3849a.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3856.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3858.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3861.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3866.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3870.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3871.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3874.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3877.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3886.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3891.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3897.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3900.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3915.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3916.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3921.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3922.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3925.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3930.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3931.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3935.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3938.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3941.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3943.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3946.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3949.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3951.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3952.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3957.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3964.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3968.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3973.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3981.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3985.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3988.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3989.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3992.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3995.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_3997.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4004.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4012.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4015a.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4017a.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4018a.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4020a.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4025.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4026.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4029a.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4033a.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4040.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4042.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4048.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4049.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4051.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4053.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4068.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4072.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4073.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4079.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4082.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4083.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4084.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4090a.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4095a.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4098.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4102.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4109.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4113.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4123.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4132.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4133.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4135.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4146.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4150.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4151.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4164.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4175.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-ollantaytambo/dsc_4189.jpg" />
+</figure>
 
 </div>
-<!-- End darkbox -->

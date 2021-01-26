@@ -1,10 +1,9 @@
 ---
 categories:
-- outdoors
+- travel
 date: "2012-07-05T00:00:00Z"
 tags:
 - acadia national park
-- carriage roads
 - cycling
 title: 'Acadia National Park: Biking the carriage roads'
 ---

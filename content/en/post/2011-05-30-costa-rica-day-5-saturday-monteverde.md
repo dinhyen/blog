@@ -4,13 +4,8 @@ categories:
 date: "2011-05-30T00:00:00Z"
 tags:
 - cloud forest
-- Costa Rica
-- Hummingbird Gallery
-- hummingbirds
-- Monteverde
-- Morpho's Cafe
-- Ross Ballard
-- Santa Elena
+- costa rica
+- wildlife
 title: Costa Rica Day 5 (Saturday) - Monteverde
 ---
 Monteverde and the adjoining town of Santa Elena are, surprisingly, well-paved.  This may come as a surprise to those who trudged up the bone-rattling gravel road to get here. Despite the lack of easy access, it's quite popular with tourists, 200000 of whom make it here each year according to the guidebook.  As a consequence, quite a few locals speak excellent English.  The climate is also very pleasant compared to the lowlands.
@@ -41,80 +36,78 @@ Next stop was the ranarium.  Our guide, Walter, was clearly passionate about am
 
 Our fellow tourists at the ranarium were a Belgian/Dutch couple from Stokkem, Belgium named Peter and Cindy (hi guys!)  We started talking and comparing notes.  Turned out they had been touring much of the country, zipping back and forth from coast to coast.  We met up over dinner later at a seafood restaurant.  Peter was quite a jokester.  They had some interesting stories to tell, ranging from being guided by a brilliant Canadian biologist named Ross Ballard who was particularly susceptible to tropical insects to attending an illicit "ping pong" show in Bangkok.  From them we learned about the live tarantulas at the butterfly garden.  If we hadn't planned on going there before, we were sold at that point.
 
-<!-- Darkbox -->
-<div class="darkbox">
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0007.jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_0007.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0014.jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_0014.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0019.jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_0019.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0043.jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_0043.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0055.jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_0055.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0056.jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_0056.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0057.jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_0057.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0061.jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_0061.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0062.jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_0062.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0105(2).jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_0105(2).jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0163(2).jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_0163(2).jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0270(2).jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_0270(2).jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0349.jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_0349.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0388(2).jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_0388(2).jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0400(2).jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_0400(2).jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0434(2).jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_0434(2).jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0463(2).jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_0463(2).jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_1112.jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_1112.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_1125.jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_1125.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_1132.jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_1132.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_1137.jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_1137.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_1138.jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_1138.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_1140.jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_1140.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_1156.jpg" data-darkbox="costa-rica-5">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/thumbs/dsc_1156.jpg" />
-</a>
+
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0007.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0014.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0019.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0043.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0055.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0056.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0057.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0061.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0062.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0105(2).jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0163(2).jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0270(2).jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0349.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0388(2).jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0400(2).jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0434(2).jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_0463(2).jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_1112.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_1125.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_1132.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_1137.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_1138.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_1140.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-5/dsc_1156.jpg" />
+</figure>
 
 </div>
-<!-- End darkbox -->

@@ -4,9 +4,7 @@ categories:
 date: "2011-09-11T00:00:00Z"
 tags:
 - audubon
-- broadmoor
-- hike
-- nature
+- hiking
 - wildlife
 title: Broadmoor Wildlife Sanctuary
 ---
@@ -19,74 +17,72 @@ Broadmoor comprises of ponds, vernal pools, meadows, tall forests, hillocks, sto
 
 Unfortunately we didn't see many of our avian friends the last time we were there.  But I had a bit of fun with the miniature waterfalls at Mill Pond. The rust-colored water laced with reflections of the blue sky gives it an interesting variegated appearance.
 
-<!-- Darkbox -->
-<div class="darkbox">
-<a href="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3555.jpg" data-darkbox="broadmoor">
-  <img src="http://yentran.isamonkey.org/gallery/broadmoor/thumbs/dsc_3555.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3557-1.jpg" data-darkbox="broadmoor">
-  <img src="http://yentran.isamonkey.org/gallery/broadmoor/thumbs/dsc_3557-1.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3561.jpg" data-darkbox="broadmoor">
-  <img src="http://yentran.isamonkey.org/gallery/broadmoor/thumbs/dsc_3561.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3562.jpg" data-darkbox="broadmoor">
-  <img src="http://yentran.isamonkey.org/gallery/broadmoor/thumbs/dsc_3562.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3565.jpg" data-darkbox="broadmoor">
-  <img src="http://yentran.isamonkey.org/gallery/broadmoor/thumbs/dsc_3565.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3573.jpg" data-darkbox="broadmoor">
-  <img src="http://yentran.isamonkey.org/gallery/broadmoor/thumbs/dsc_3573.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3577.jpg" data-darkbox="broadmoor">
-  <img src="http://yentran.isamonkey.org/gallery/broadmoor/thumbs/dsc_3577.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3604.jpg" data-darkbox="broadmoor">
-  <img src="http://yentran.isamonkey.org/gallery/broadmoor/thumbs/dsc_3604.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3613.jpg" data-darkbox="broadmoor">
-  <img src="http://yentran.isamonkey.org/gallery/broadmoor/thumbs/dsc_3613.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3615.jpg" data-darkbox="broadmoor">
-  <img src="http://yentran.isamonkey.org/gallery/broadmoor/thumbs/dsc_3615.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3619.jpg" data-darkbox="broadmoor">
-  <img src="http://yentran.isamonkey.org/gallery/broadmoor/thumbs/dsc_3619.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3621.jpg" data-darkbox="broadmoor">
-  <img src="http://yentran.isamonkey.org/gallery/broadmoor/thumbs/dsc_3621.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3622.jpg" data-darkbox="broadmoor">
-  <img src="http://yentran.isamonkey.org/gallery/broadmoor/thumbs/dsc_3622.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3625.jpg" data-darkbox="broadmoor">
-  <img src="http://yentran.isamonkey.org/gallery/broadmoor/thumbs/dsc_3625.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3631.jpg" data-darkbox="broadmoor">
-  <img src="http://yentran.isamonkey.org/gallery/broadmoor/thumbs/dsc_3631.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3645.jpg" data-darkbox="broadmoor">
-  <img src="http://yentran.isamonkey.org/gallery/broadmoor/thumbs/dsc_3645.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3660.jpg" data-darkbox="broadmoor">
-  <img src="http://yentran.isamonkey.org/gallery/broadmoor/thumbs/dsc_3660.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3665.jpg" data-darkbox="broadmoor">
-  <img src="http://yentran.isamonkey.org/gallery/broadmoor/thumbs/dsc_3665.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3669.jpg" data-darkbox="broadmoor">
-  <img src="http://yentran.isamonkey.org/gallery/broadmoor/thumbs/dsc_3669.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3703.jpg" data-darkbox="broadmoor">
-  <img src="http://yentran.isamonkey.org/gallery/broadmoor/thumbs/dsc_3703.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3706.jpg" data-darkbox="broadmoor">
-  <img src="http://yentran.isamonkey.org/gallery/broadmoor/thumbs/dsc_3706.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3716.jpg" data-darkbox="broadmoor">
-  <img src="http://yentran.isamonkey.org/gallery/broadmoor/thumbs/dsc_3716.jpg" />
-</a>
+
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3555.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3557-1.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3561.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3562.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3565.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3573.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3577.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3604.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3613.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3615.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3619.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3621.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3622.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3625.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3631.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3645.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3660.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3665.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3669.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3703.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3706.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/broadmoor/dsc_3716.jpg" />
+</figure>
 
 </div>
-<!-- End darkbox -->

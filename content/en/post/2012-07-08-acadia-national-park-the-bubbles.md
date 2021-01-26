@@ -1,10 +1,10 @@
 ---
 categories:
-- hiking
+- travel
 date: "2012-07-08T00:00:00Z"
 tags:
 - acadia national park
-- bubbles
+- hiking
 title: 'Acadia National Park: The Bubbles'
 ---
 [Map ](https://maps.google.com/maps/ms?msid=214490968088440958659.0004c453c947c3eb5ce5b&msa=0&ll=44.340824,-68.253111&spn=0.007451,0.013089)of our hike on the North and South Bubble Mountains
@@ -52,41 +52,39 @@ The mountain sides are carpeted with trees.  We will have to return in the autum
 A last look at the Bubble Rock from the Park Loop Road.
 
 <img src='http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5502a.jpg' />
-<!-- Darkbox -->
-<div class="darkbox">
-<a href="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5266.jpg" data-darkbox="acadia-bubbles">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/thumbs/dsc_5266.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5267.jpg" data-darkbox="acadia-bubbles">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/thumbs/dsc_5267.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5275.jpg" data-darkbox="acadia-bubbles">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/thumbs/dsc_5275.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5281.jpg" data-darkbox="acadia-bubbles">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/thumbs/dsc_5281.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5284.jpg" data-darkbox="acadia-bubbles">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/thumbs/dsc_5284.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5293.jpg" data-darkbox="acadia-bubbles">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/thumbs/dsc_5293.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5315.jpg" data-darkbox="acadia-bubbles">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/thumbs/dsc_5315.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5339.jpg" data-darkbox="acadia-bubbles">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/thumbs/dsc_5339.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5344.jpg" data-darkbox="acadia-bubbles">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/thumbs/dsc_5344.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5347.jpg" data-darkbox="acadia-bubbles">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/thumbs/dsc_5347.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5502a.jpg" data-darkbox="acadia-bubbles">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/thumbs/dsc_5502a.jpg" />
-</a>
+
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5266.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5267.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5275.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5281.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5284.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5293.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5315.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5339.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5344.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5347.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-bubbles/dsc_5502a.jpg" />
+</figure>
 
 </div>
-<!-- End darkbox -->

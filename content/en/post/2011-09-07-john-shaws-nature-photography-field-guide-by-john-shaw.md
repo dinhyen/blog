@@ -4,8 +4,7 @@ categories:
 date: "2011-09-07T00:00:00Z"
 tags:
 - book review
-- guide
-- John Shaw
+- john shaw
 - photography
 title: John Shaw's Nature Photography Field Guide by John Shaw
 ---

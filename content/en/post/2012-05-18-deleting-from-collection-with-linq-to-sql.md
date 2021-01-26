@@ -3,8 +3,7 @@ categories:
 - technology
 date: "2012-05-18T00:00:00Z"
 tags:
-- csharp
-- linq to sql
+- c#
 title: Deleting from collection with LINQ to SQL
 ---
 I ran into an subtle bug today.  Let's say we have a shopping cart page that displays order details and allows the user to remove items from the order.  We retrieve the items in the order with the following:

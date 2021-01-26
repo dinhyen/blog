@@ -1,7 +1,6 @@
 ---
 categories:
-- technology
-comments: true
+- diy
 date: "2015-04-08T00:00:00Z"
 title: Installing the Curt 11064 trailer hitch on a 2009 Honda Fit Sport
 ---

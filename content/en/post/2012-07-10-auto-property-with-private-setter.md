@@ -4,7 +4,6 @@ categories:
 date: "2012-07-10T00:00:00Z"
 tags:
 - c#
-- tip
 title: Auto property with private setter
 ---
 Sometimes I'd like to only allow a property to be set in the constructor. Something like this:

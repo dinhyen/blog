@@ -1,10 +1,9 @@
 ---
 categories:
-- city
-- photography
 - travel
 date: "2012-08-09T00:00:00Z"
-tags: []
+tags:
+- city
 title: Paris 1999
 ---
 I took a trip outside of the US for the first time in 1999.  My sister and I got to spend a week in Paris, then took a train to the Netherlands where we toured the country for another week with a friend.  Traveling so far from home by ourselves was exciting enough, and being in the most beautiful and metropolitan city in the world turned it into an unforgettable experience.  We were like a sponge, soaking in and absorbing all the sights that we had only read or even dreamed about.  I had an old manual [Canon AT-1](http://en.wikipedia.org/wiki/Canon_AT-1) that my dad had given me.  It's a far cry from contemporary DSLRs, but that didn't stop me from taking as many pictures as possible.  In many ways, this was the beginning of my interest in travel and photography.  I've been able to return to Paris many times since then, but the curiosity, passion and wide-eyed wonder of that first trip are some things that remain and hopefully never cease.

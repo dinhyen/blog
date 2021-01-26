@@ -1,10 +1,7 @@
 ---
 categories:
-- technology
-date: "2013-02-13T00:00:00Z"
-tags:
 - diy
-- tip
+date: "2013-02-13T00:00:00Z"
 title: Fix External Lockout for American Standard Freedom 90 furnace
 ---
 Some of my blogs are of the "I'd better write this down so I don't forget it" variety.  This is one of them. This is intended primarily for future me, but it would be cool if anyone else finds it useful.

@@ -4,8 +4,7 @@ categories:
 date: "2011-09-07T00:00:00Z"
 tags:
 - game review
-- role playing
-- rpg
+- pc game
 title: Icewind Dale 2
 ---
 <img class="pull-left" title="icewinddaleii" src="http://yentran.isamonkey.org/gallery/images/icewinddaleii-250x300.jpg" width="250" height="300" />In a world populated with excellent RPG games, IWD2 stands out for its solid foundation of compelling story line, great game play, and high replayability. It's hard to please all RPG fans who desire different mixes of action, quest, and character development. IWD2 strikes a nice balance between quest-laden Baldur's Gate and Diablo's mindless click-fest. There are plenty of hack and slash to be found here, including all-out melees with a multitude of foes and harrowing battles against powerful monsters. While many quests are of the simple "go there and fetch this" variety, many are quite lengthy and challenging. But the most compelling raison d'être for IWD2 has to be its implementation of the vastly improved AD&amp;D 3rd Edition rule set. The 3rd Edition offers not only new races and sub-races, but also new classes, skills, rules, feats, and weapons. The new races, coupled with multi-classing, make possible a mind-boggling number of party combinations, from Drow paladins/sorcerers to deep gnome thief/monks. A vast selection of weapons and magical items can be found throughout the game. Even better, the special Heart of Fury mode with insanely challenging combat and vastly upgraded weapons is almost another game within a game. Throw in an almost intuitively perfect user interface and beautifully rendered, finely polished graphics and there's no doubt IWD2 is a winner in the crowded RPG arena.

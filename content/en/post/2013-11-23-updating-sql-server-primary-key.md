@@ -1,8 +1,9 @@
 ---
 categories:
 - technology
-comments: true
 date: "2013-11-23T00:00:00Z"
+tags:
+- sql server
 title: Updating SQL Server Primary Key
 ---
 A requirement recently came up to update the primary key of a SQL Server table.  We get user data from a third-party single sign-on service and store them locally.  When the SSO software was upgraded, user IDs were changed, so we need to update our local users but retain existing data.  I suppose one way to do so would be to drop any existing foreign-key constraint and update all related tables.  Unfortunately, the User table is related to practically every other table in the schema. Updating a bunch tables manually, without the safety net of relational integrity, would be a bit dodgy. Fortunately, there's a less painful approach using the [ON UPDATE CASCADE](http://technet.microsoft.com/en-us/library/ms186973.aspx) clause. 

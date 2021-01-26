@@ -3,9 +3,8 @@ categories:
 - review
 date: "2011-09-07T00:00:00Z"
 tags:
-- baldur's gate
 - game review
-- rpg
+- pc game
 title: 'Baldur''s Gate 2: Shadows of Amn'
 ---
 <img class="pull-left" title="baldursgate2" src="http://yentran.isamonkey.org/gallery/images/baldursgate2.jpg" width="196" height="257" />The Baldur's Gate franchise is the most popular single-player RPG series out there for good reasons, even though it's been a few years since its release. While more recent Black Isle games, notably Icewind Dale II, have vastly improved graphics and interface and others like Neverwinter Nights have changed the playing field entirely, BGII stands out for its tremendous scope and exceptional depth. BGII's complexity, intertwining subplots and host of myriad characters are enough to constitute a novel, one which you get to shape and play out instead of merely reading. To me that's the essence of RPG that few others have been able to capture. Reinforcing this feeling, at many points in the game you must make decisions that have far-reaching consequences. Furthermore, you can also complete many quests using the good or evil approach. You may decide how to proceed based on whether you want to be good or evil; there are non-player characters (NPCs) of both alignments ready to assist you.

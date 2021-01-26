@@ -4,10 +4,8 @@ categories:
 date: "2011-09-07T00:00:00Z"
 tags:
 - book review
-- Eddings
+- david & leigh eddings
 - fantasy
-- novel
-- Redemption of Althalus
 - sci-fi
 title: The Redemption of Althalus by David & Leigh Eddings
 ---

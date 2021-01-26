@@ -1,8 +1,9 @@
 ---
 categories:
 - hockey
-comments: true
 date: "2014-02-07T00:00:00Z"
+tags:
+- rant
 title: Sports I would watch
 ---
 ...if I had an unlimited amount of free time, bathroom breaks and no desire to have a life.

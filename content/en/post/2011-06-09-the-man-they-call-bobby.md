@@ -3,14 +3,7 @@ categories:
 - hockey
 date: "2011-06-09T00:00:00Z"
 tags:
-- Boston
-- Boston Bruins
-- hockey
-- Nathan Horton
-- Stanley Cup
-- Stanley Cup finals
-- Stanley Cup playoffs
-- TD Bank Garden
+- boston bruins
 title: The man they call Bobby
 ---
 TD Bank Garden, Boston on June 8, around 19:00.  It was moments before Game 4 of the Stanley Cup finals between the Boston Bruins and the Vancouver Canucks.  In the darkened arena, packed to the rafters with almost 18000 screaming fans, the lone spotlight descended on an area in the stands.  Momentarily, a middle-aged man clad in a vintage Bruins jersey stepped into the light.  The crowd erupted.  It was none other than the legendary Bobby Orr, the man universally regarded as the finest defenseman in the history of hockey.  Most Bruins fans would contend that he is the best hockey player to ever lace up skates, no slight intended for the Great One. Fittingly, the man whose statue stands outside the arena was also part of the last Bruins squad to bring the Cup home nearly 4 decades ago.

@@ -4,10 +4,8 @@ categories:
 date: "2011-09-07T00:00:00Z"
 tags:
 - book review
-- Destiny Child of the Sky
-- Elizabeth Haydon
+- elizabeth haydon
 - fantasy
-- novel
 title: 'Destiny: Child of the Sky by Elizabeth Haydon'
 ---
 <img class="pull-left" title="destinychildofthesky" src="http://yentran.isamonkey.org/gallery/images/destinychildofthesky-191x300.jpg" width="191" height="300" />2003 seems to be a good year for epic fantasy, with the impending release of Robert Jordan's 10th Wheel of Time book in January, George R. R. Martin's 4th Song of Fire and Ice book in April, and Terry Goodkind's 8th Sword of Truth book in June. That afterwards fans of these series will be left to languish for a couple of years is not a savory thought. In light of this reality, that Elizabeth Haydon fulfills the promise of bringing the Rhapsody series to a satisfying conclusion (though not THE conclusion) in a reasonable amount of time seems very satisfying indeed.

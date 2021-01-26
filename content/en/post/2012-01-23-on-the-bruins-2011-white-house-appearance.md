@@ -2,16 +2,8 @@
 categories:
 - hockey
 date: "2012-01-23T00:00:00Z"
-meta:
-  _edit_last: "1"
-  _thumbnail_id: "928"
-  _wp_old_slug: on-the-bruins-2011-white-house-appearnce
-  aktt_notify_twitter: "no"
-published: true
-status: publish
 tags:
-- commentary
-- hockey
+- rant
 title: On the Bruins' 2011 White House appearance
 type: post
 ---

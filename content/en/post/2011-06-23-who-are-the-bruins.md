@@ -3,9 +3,7 @@ categories:
 - hockey
 date: "2011-06-23T00:00:00Z"
 tags:
-- Boston Bruins
-- hockey
-- Stanley Cup
+- boston bruins
 title: Who are the 2011 Bruins?
 ---
 <img src="http://i.cdn.turner.com/si/multimedia/photo_gallery/1105/nhl-bruins-road-to-stanley-cup/images/bruins-stanley-cup-op1x-17626.jpg" width="641" height="427" />

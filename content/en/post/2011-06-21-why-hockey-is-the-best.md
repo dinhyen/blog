@@ -3,7 +3,7 @@ categories:
 - hockey
 date: "2011-06-21T00:00:00Z"
 tags:
-- hockey
+- rant
 title: Top 10 reasons why hockey is the best
 ---
 Would you expect any less from a die-hard hockey fan?  So with a warning that this is going to be shamelessly biased, here goes.

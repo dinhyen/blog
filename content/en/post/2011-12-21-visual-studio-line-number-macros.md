@@ -3,9 +3,6 @@ categories:
 - technology
 date: "2011-12-21T00:00:00Z"
 tags:
-- editor
-- line number
-- macro
 - visual studio
 title: Visual Studio line number macros
 ---

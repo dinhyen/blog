@@ -5,9 +5,7 @@ date: "2011-09-07T00:00:00Z"
 tags:
 - book review
 - fantasy
-- George RR Martin
-- novel
-- Storm of Swords
+- george rr martin
 title: A Storm of Swords (A Song of Ice and Fire, Book 3) by George R.R. Martin
 ---
 <img class="pull-left" title="AStormOfSwords" src="http://yentran.isamonkey.org/gallery/images/astormofswords.jpg" width="200" height="290" />With this third hit in a row, I think it's appropriate to call the Song of Fire and Ice series a phenomenon. Just when you think things can't get any better, Martin turns out another gem. Judging from the previews for the next book, A Feast for Crows, things are bound to get even more exciting. I can only hope that this series doesn't turn into a certain other series that started out promising then bogged down completely so that by the time the tenth book rolls around, readers are forced to stomp their feet in angry frustration.

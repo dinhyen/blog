@@ -1,8 +1,9 @@
 ---
 categories:
 - technology
-comments: true
 date: "2014-04-09T00:00:00Z"
+tags:
+- home network
 title: A MoCA home network
 ---
 The benefits of a wired home network are many.  I use the [SiliconDust HDHomerun Prime](http://www.silicondust.com/products/hdhomerun/prime) network TV tuners to watch cable TV on any computer in the house without the need for a set-top box.  However, it is quite bandwidth-intensive and even a wireless-N connection just doesn't cut it.  The picture would be plagued with stutters, pause and artifacts and pretty much unwatchable, especially for hockey with its lightning-fast actions.

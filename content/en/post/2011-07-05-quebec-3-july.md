@@ -1,16 +1,10 @@
 ---
 categories:
-- photography
 - travel
 date: "2011-07-05T00:00:00Z"
 tags:
-- Basilica Ste-Anne-de-Beaupré
-- Café Resto
-- food
-- Ile d'Orléans
-- Montmorency Falls
-- Restaurant Thang Long
-- vineyard
+- canada
+- city
 title: Québec, 3-July
 ---
 We had our fill of the city yesterday, so it seemed like time to head out to the country. We also learned that William and Kate [would be in town](http://news.yahoo.com/prince-william-kate-undeterred-quebec-protests-174723189.html) as part of their Canada tour, an event undoubtedly to be attended by legions of their admirers and non-admirers alike. That cemented the decision for us. First stop is the Montmorency Falls. At 84 meters, it's higher than Niagara Falls.
@@ -38,143 +32,141 @@ For dinner we stopped at Restaurant Thang Long. We knew that this place was BYOW
 
 Back in St-Roch we found a big crowd in front of the church. Turned out there was an out-door concert given by the Québec symphony orchestra and featuring some well-known (but not to us) crooners. For a small city, Québec certainly has a lot of things going for it. Unfortunately it also started raining, and we decided to come back to chill inside. Through the open window I could hear a loud cheer from the crowds. Dancing Queen was coming on...
 
-<!-- Darkbox -->
-<div class="darkbox">
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2389.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2389.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2394.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2394.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2413.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2413.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2425.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2425.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2439.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2439.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2457.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2457.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2468.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2468.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2477.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2477.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2489.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2489.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2497.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2497.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2500.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2500.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2502.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2502.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2512.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2512.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2528.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2528.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2535.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2535.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2570.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2570.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2577.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2577.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2581.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2581.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2583.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2583.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2585.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2585.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2598.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2598.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2600.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2600.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2601.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2601.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2602.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2602.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2612.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2612.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2616.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2616.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2619.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2619.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2620.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2620.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2623.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2623.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2625.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2625.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2627.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2627.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2629.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2629.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2631.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2631.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2632.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2632.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2634.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2634.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2640b.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2640b.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2649.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2649.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2652.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2652.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2657.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2657.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2660.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2660.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2671.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2671.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2672.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2672.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2674.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2674.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2677.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2677.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2684.jpg" data-darkbox="quebec-2">
-  <img src="http://yentran.isamonkey.org/gallery/quebec-2/thumbs/dsc_2684.jpg" />
-</a>
+
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2389.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2394.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2413.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2425.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2439.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2457.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2468.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2477.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2489.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2497.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2500.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2502.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2512.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2528.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2535.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2570.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2577.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2581.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2583.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2585.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2598.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2600.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2601.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2602.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2612.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2616.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2619.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2620.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2623.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2625.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2627.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2629.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2631.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2632.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2634.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2640b.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2649.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2652.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2657.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2660.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2671.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2672.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2674.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2677.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/quebec-2/dsc_2684.jpg" />
+</figure>
 
 </div>
-<!-- End darkbox -->

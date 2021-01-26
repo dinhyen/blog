@@ -3,9 +3,7 @@ categories:
 - technology
 date: "2012-04-03T00:00:00Z"
 tags:
-- program files
 - visual studio
-- windows x64
 title: Locating Program Files folder in Visual Studio on 32-bit and x64 environments
 ---
 In my Visual Studio project, I want to run an external executable, SQLMetal, in a build event.  The only problem is that the location of the executable depends on whether the machine runs x64 or 32-bit Windows.  It is found in the `Program Files (x86)` folder on x64 Windows and `Program Files` on 32-bit Windows. I want to be able to build the project without modification in either environment.

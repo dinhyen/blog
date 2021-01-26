@@ -3,14 +3,7 @@ categories:
 - hockey
 date: "2011-06-14T00:00:00Z"
 tags:
-- Boston
-- Boston Bruins
-- favorite player
-- hockey
-- Joe Thornton
-- Ray Bourque
-- Sergei Samsonov
-- Stanley Cup
+- boston bruins
 title: We want the Cup!
 ---
 It's the eve before the biggest game in my history as a Bruins fan.  I'm so nervous I'm going to have problem going to sleep.  I had known about hockey quite early on since Las Vegas had a minor-league team, the now-defunct Las Vegas Thunder, and a friend was a big fan.  Despite knowing so little about the game, I was hooked immediately when I came to Boston in the mid-90s.  The  grace and speed intermixed with the power and physical intensity, in my mind, elevate hockey above all other team sports.  I remember cheering for the dynamic duo of Joe Thornton and Sergei Samsonov.  Samsonov was my favorite player because of his small stature and mesmerizing puck-handling skill.  I remember feeling sad when Ray Bourque was traded to the Colorado Avalanche in 2000, then being elated when he won the Stanley Cup the following season.  When Bourque brought the Cup back to a rally at City Hall, I was among the thousands who showed up to cheer for him.
@@ -28,7 +21,7 @@ The Boston Globe site has a [feature ](http://www.boston.com/sports/hockey/bruin
 
 <img src="http://cache.boston.com/stuff/express/2011/04/25/1303737603.2725-31392-r-959x550.JPG" width="440" height="330" />
 
-<figcaption>Michelangelo this isn&#039;t, but you can&#039;t argue with the beauty of the subject, a game featuring Orr, Neely and Bourque (source: Boston Globe)</figcaption>
+<figcaption>Michelangelo this isn't, but you can't argue with the beauty of the subject, a game featuring Orr, Neely and Bourque (source: Boston Globe)</figcaption>
 
 
 <img src="http://cache.boston.com/stuff/express/2011/06/03/1307085135.6909-3090.JPG" width="358" height="480" />

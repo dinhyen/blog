@@ -5,11 +5,8 @@ date: "2011-09-07T00:00:00Z"
 tags:
 - book review
 - fantasy
-- Margaret Weis
-- novel
-- Tracy Hickman
-title: Dragons of Autumn Twilight (Dragonlance Chronicles, Volume I) by Margaret Weis
-  & Tracy Hickman
+- margaret weis & tracy hickman
+title: Dragons of Autumn Twilight (Dragonlance Chronicles, Volume I) by Margaret Weis & Tracy Hickman
 ---
 <img class="pull-left" title="DragonsofAutumnTwilight" src="http://yentran.isamonkey.org/gallery/images/dragonsofautumntwilight.jpg" width="179" height="300" />The DragonLance saga is one of the most prolific in fantasy, with scores of prequels and sequels and offshoots and imitators. The DragonLance Chronicles is the series that started it all. To call it anything less than a classic would be sacrilegious. Deeply rooted in the mythos of Tolkien and heavily influenced by the rules and mechanics of the RPG world, the DragonLance Chronicles manages to create a vast high-fantasy universe with few equals then or since. Dragons of Autumn Twilight has many rough edges, typical for a first book in a series, but it fulfills its role admirably and paves the way for a crescendo in the second and third book.
 

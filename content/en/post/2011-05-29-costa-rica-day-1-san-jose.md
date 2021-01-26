@@ -3,11 +3,7 @@ categories:
 - travel
 date: "2011-05-29T00:00:00Z"
 tags:
-- Costa Rica
-- Denny's
-- San Jose
-- Suzuki
-- William Least Heat-Moon
+- costa rica
 title: Costa Rica Day 1 (Tuesday) - San Jose
 ---
 I just came back from a second visit to Costa Rica, the first being 2 years ago.  This trip was quite spontaneous, after plans to catch a friend during her last semester in Venice fell through.

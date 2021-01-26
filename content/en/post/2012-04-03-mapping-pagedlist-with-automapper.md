@@ -4,8 +4,7 @@ categories:
 date: "2012-04-03T00:00:00Z"
 tags:
 - automapper
-- csharp
-- pagedlist
+- c#
 title: Mapping PagedList with AutoMapper
 ---
 I'm using an implementation of PagedList based on that [given by Rob Conery](http://wekeroad.com/2007/12/10/aspnet-mvc-pagedlistt/).

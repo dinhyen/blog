@@ -2,14 +2,9 @@
 categories:
 - technology
 date: "2013-03-19T00:00:00Z"
-meta:
-  _edit_last: "1"
-  _wp_old_slug: intermittent-temporary-freezing-on-os-x-with-ocz-vertex-3
-published: true
-status: publish
-tags: []
+tags:
+- macbook
 title: Intermittent, temporary freezing on MacBook with OCZ Vertex 3
-type: post
 ---
 I recently upgraded the hard drive on my MacBook Pro running Snow Leopard to a 120GB OCZ Vertex 3 SSD.  As advertised, the boot up and application start times are dramatically reduced.  The SSD is everything I had hoped for. Well, almost.  There has been a persistent and quite annoying issue.  At random intervals, the computer would be come unresponsive.  I could move the mouse or type on the keyboard, but nothing woud happen.  When I hovered over the menu bar, I got the spinning "beachball".  The lag would last anywhere from 5-10 seconds.  Then all of a sudden all the actions I had performed in the interim would be executed in rapid succession, as if the computer had been jerked awake.  This was most noticeable during a streaming video, which would pause when one of these episodes hit.  The problem made the computer borderline unusable.
 

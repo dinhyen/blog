@@ -3,9 +3,6 @@ categories:
 - review
 date: "2011-09-07T00:00:00Z"
 tags:
-- camera
-- canon powershot s30
-- digital
 - product review
 title: Canon PowerShot S30 3MP Digital Camera with 3x Optical Zoom
 ---

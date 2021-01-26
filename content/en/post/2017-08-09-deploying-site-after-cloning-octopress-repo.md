@@ -1,8 +1,9 @@
 ---
 categories:
 - technology
-comments: true
 date: "2017-08-09T00:00:00Z"
+tags:
+- octopress
 title: Deploying site after cloning Octopress repo
 ---
 Octopress instructions are for setting up a new repo; i.e. by running `rake setup_github_pages`.  It doesn’t work if you’ve cloned an existing repo.

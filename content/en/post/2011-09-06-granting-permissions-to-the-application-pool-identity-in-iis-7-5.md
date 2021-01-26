@@ -3,9 +3,7 @@ categories:
 - technology
 date: "2011-09-06T00:00:00Z"
 tags:
-- app pool identity
-- iis 7.5
-- permission
+- pc
 title: How to grant permissions to the Application Pool Identity for IIS 7.5
 ---
 Up to IIS 7 (Windows Vista and Windows Server 2008), the default app pool identity is NetworkService 7. In IIS 7.5 (Windows 7 and Windows Server 2008 R2) the app pool identity is changed to something called ApplicationPoolIdentity.

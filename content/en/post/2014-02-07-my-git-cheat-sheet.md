@@ -1,8 +1,9 @@
 ---
 categories:
 - technology
-comments: true
 date: "2014-02-07T00:00:00Z"
+tags:
+- git
 title: My Git cheat sheet
 ---
 There are lots of great Git guides out there.  This is intended simply to be a reference for me during those dark times when I can't remember the syntax for creating a tracking branch.

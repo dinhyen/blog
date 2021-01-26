@@ -2,19 +2,10 @@
 categories:
 - technology
 date: "2012-01-03T00:00:00Z"
-meta:
-  _edit_last: "1"
-  _wp_old_slug: panda-active-scan-changes-firefox-keyword-url
-  aktt_notify_twitter: "no"
-published: true
-status: publish
 tags:
+- pc
 - firefox
-- keyword
-- url
-- yahoo
 title: Installing antivirus program changes FireFox keyword URL
-type: post
 ---
 I tried out a well-known cloud-based antivirus solution.  It worked well enough, but after I installed it, I noticed that my FireFox searches were now redirected from Google to Yahoo!.  In the FF config screen (which can be opened by typing "about:config" in the location bar), I noticed that the keyword.URL setting had been changed to Yahoo!:
 

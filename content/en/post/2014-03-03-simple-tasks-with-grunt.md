@@ -1,8 +1,9 @@
 ---
 categories:
 - technology
-comments: true
 date: "2014-03-03T00:00:00Z"
+tags:
+- grunt
 title: Simple tasks with Grunt
 ---
 Developers are lazy by nature and always look for ways to avoid having to perform repetitive tasks. There are plenty of options when you're working with conventional server-side platforms.  Unfortunately, when it comes to JavaScripts and CSS, automation tools are harder to find. That is, until Grunt comes along (following Node, which turned upside down the whole idea of server vs client side in the first place).

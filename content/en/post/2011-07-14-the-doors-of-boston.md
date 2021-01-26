@@ -1,10 +1,9 @@
 ---
 categories:
-- photography
+- outdoors
 date: "2011-07-14T00:00:00Z"
 tags:
-- Beacon Hill
-- doors
+- city
 - montage
 title: The doors of Boston
 ---

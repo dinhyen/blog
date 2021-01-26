@@ -5,10 +5,8 @@ date: "2011-09-07T00:00:00Z"
 tags:
 - book review
 - fantasy
-- novel
-- RA Salvatore
-title: 'The Halfling''s Gem (Forgotten Realms: The Icewind Dale Trilogy, Book 3) by
-  R. A. Salvatore'
+- ra salvatore
+title: 'The Halfling''s Gem (Forgotten Realms: The Icewind Dale Trilogy, Book 3) by R. A. Salvatore'
 ---
 <img class="pull-left" title="thehalflingsgem" src="http://yentran.isamonkey.org/gallery/images/thehalflingsgem-178x300.jpg" width="178" height="300" />The end of the second volume leads right into the third. As the companions escaped from Mithral Hall, Regis fell into the clutches of Artemis Entreri, the deadly assassin hired by the leader of the thieves' guild in Calimport of whom Regis had run afoul. Furthermore, Entreri gained possession of the statuette that conjures the black panther Guenhwyvar, Drizzt's faithful extra-planar companion. Saddened by the loss of Bruenor and now Regis, Drizzt and Wulfgar resolve to track down the assassin to his lair and rescue their friend, while Catti-Brie is grimly determined to finish Bruenor's quest and retake Mithral Hall from the duergars.
 

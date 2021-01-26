@@ -1,19 +1,11 @@
 ---
 categories:
-- hiking
+- travel
 date: "2012-07-10T00:00:00Z"
-meta:
-  _edit_last: "1"
-  _thumbnail_id: "1301"
-  _wp_old_slug: dorr-mountain
-  aktt_notify_twitter: "no"
-published: true
-status: publish
 tags:
 - acadia national park
-- dorr mountain
+- hiking
 title: 'Acadia National Park: Dorr Mountain'
-type: post
 ---
 [Map](https://maps.google.com/maps/ms?msid=214490968088440958659.0004c472e0af882101443&msa=0&ll=44.358347,-68.211794&spn=0.014897,0.018775) of our round-trip hike to Dorr Mountain from Sieur de Monts.
 
@@ -115,164 +107,162 @@ After a short descent, we reached the wide graveled Hemlock path, which leads ba
 
 <img src='http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5698.jpg' />
 
-<!-- Darkbox -->
-<div class="darkbox">
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5511.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5511.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5515.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5515.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5518.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5518.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5523.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5523.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5524.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5524.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5526.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5526.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5527.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5527.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5530.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5530.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5532.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5532.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5539.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5539.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5549.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5549.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5552.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5552.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5553.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5553.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5554a.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5554a.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5558.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5558.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5559.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5559.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5565.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5565.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5587.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5587.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5589.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5589.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5595.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5595.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5596.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5596.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5598.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5598.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5602.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5602.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5603.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5603.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5604.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5604.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5606.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5606.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5610.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5610.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5612.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5612.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5619.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5619.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5624.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5624.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5633.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5633.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5635.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5635.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5636.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5636.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5640.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5640.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5641.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5641.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5642.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5642.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5647.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5647.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5648.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5648.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5650.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5650.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5661.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5661.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5665.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5665.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5667.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5667.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5669.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5669.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5671.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5671.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5677.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5677.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5683.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5683.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5686.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5686.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5687.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5687.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5691.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5691.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5694.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5694.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5695.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5695.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5698.jpg" data-darkbox="acadia-dorr">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/thumbs/dsc_5698.jpg" />
-</a>
+
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5511.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5515.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5518.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5523.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5524.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5526.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5527.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5530.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5532.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5539.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5549.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5552.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5553.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5554a.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5558.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5559.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5565.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5587.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5589.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5595.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5596.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5598.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5602.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5603.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5604.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5606.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5610.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5612.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5619.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5624.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5633.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5635.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5636.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5640.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5641.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5642.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5647.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5648.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5650.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5661.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5665.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5667.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5669.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5671.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5677.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5683.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5686.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5687.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5691.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5694.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5695.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-dorr/dsc_5698.jpg" />
+</figure>
 
 </div>
-<!-- End darkbox -->

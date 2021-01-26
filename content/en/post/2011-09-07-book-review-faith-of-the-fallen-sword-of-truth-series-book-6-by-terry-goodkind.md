@@ -4,10 +4,8 @@ categories:
 date: "2011-09-07T00:00:00Z"
 tags:
 - book review
-- Faith of the Fallen
 - fantasy
-- novel
-- Terry Goodkind
+- terry goodkind
 title: Faith of the Fallen (Sword of Truth series, Book 6) by Terry Goodkind
 ---
 <img class="pull-left" title="faithofthefallen" src="http://yentran.isamonkey.org/gallery/images/faithofthefallen-201x300.jpg" width="201" height="300" />Faith of the Fallen picks up where Soul of the Fire left off. It follows several characters while advancing the main storyline. The climax, which brings together major threads in the story, is done in the typical Goodkind fashion, action-filled and satisfying. On the flip side, with this and the previous installment, Goodkind seems to have departed from the usual sword- and sorcery-oriented storytelling. Sure, there are intense battles to whet our appetites, but the principal focus of the book was on the nature of human character and society. As such, while we follow Richard and Nicci's "adventures" in the Old World, perhaps it can't be help that the pace is plodding and the tone annoyingly didactic. Yes, the Order believes that man is inherently evil, yes, those with ability must help those without for the common good, yes, the Order brings equality to all; the point is made, but must it be repeated every chapter by every character? At times, the book reads like "1984" in the Middle Ages. And at times, the book stretches the limit of believability: that the Order is able to dominate a vast society with mind-numbing single-mindedness and unsophisticated fanaticism, that the great wizard and leader Richard would so easily give in to his fate even though he has faced much worse odds before, that in the end a work of art is able to convert the masses.

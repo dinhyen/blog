@@ -4,10 +4,6 @@ categories:
 date: "2011-12-31T00:00:00Z"
 tags:
 - android
-- cyanogenmod
-- gingerbread
-- mod
-- upgrade
 title: Upgrading the HTC Aria with Android Gingerbread and CyanogenMod
 ---
 I have an HTC Aria which runs now-ancient Android 2.1. This phone is far from being the latest and greatest, to put it mildly, but I like its small form factor. After putting up with it for a year, I have had enough and decided to upgrade it to Gingerbread.  This is how I did it. As this is my first attempt, no doubt there are different and better ways to do things. Kudos should go to the developer and enthusiast community for making all of this possible.

@@ -4,7 +4,6 @@ categories:
 date: "2012-06-29T00:00:00Z"
 tags:
 - c#
-- linq to sql
 title: Edit collection with LINQ to SQL
 ---
 Let's say for a shopping cart we have an Order entity, a Product entity and an OrderDetails entity which serves as a bridge. The OrderDetails entity has OrderId and ProductId fields to associate products with orders. We also have an Order domain object which is passed from the business logic layer to the repository layer.

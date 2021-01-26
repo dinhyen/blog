@@ -1,8 +1,9 @@
 ---
 categories:
 - technology
-comments: true
 date: "2014-04-15T00:00:00Z"
+tags:
+- hudson ci
 title: Copying files in Hudson
 ---
 Copying files somewhere is pretty standard procedure when deploying an app.  Interestingly I've never had to copy files directly in Hudson.  Until now I've only deployed .NET apps in Hudson and used MSBuild's Copy task to copy the files to a share folder.  Now that I want to deploy Angular and other client apps in Hudson, I'd have to copy the files manually.

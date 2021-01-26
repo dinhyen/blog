@@ -1,8 +1,9 @@
 ---
 categories:
 - technology
-comments: true
 date: "2013-11-18T00:00:00Z"
+tags:
+- octopress
 title: So long WordPress, hello Octopress
 ---
 I've been using WordPress since 2011.  It works well enough, but for me there are a few drawbacks.

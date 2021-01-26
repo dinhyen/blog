@@ -3,6 +3,8 @@ categories:
 - technology
 comments: true
 date: "2013-12-07T00:00:00Z"
+tags:
+- angularjs
 title: Using Angular root scope for communication between controllers
 ---
 Angular makes it simple to create standard index and details views.  Using the ubiquitous task list as an example, I can set up routes using the `$route` service as follows:

@@ -3,10 +3,7 @@ categories:
 - technology
 date: "2012-11-15T00:00:00Z"
 tags:
-- ci
-- git
-- hudson
-- msbuild
+- hudson ci
 title: Using Hudson with Git and MSBuild on Windows
 ---
 We use [Hudson](http://hudson-ci.org/) as our continuous integration server (although we're thinking about moving to [Jenkins](http://jenkins-ci.org/), but that's a different story). This post describes how we set up Hudson to work with Git and MSBuild on a Windows server.

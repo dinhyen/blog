@@ -3,7 +3,6 @@ categories:
 - technology
 date: "2013-07-02T00:00:00Z"
 tags:
-- javascript
 - knockoutjs
 title: Search box using KnockoutJS
 ---

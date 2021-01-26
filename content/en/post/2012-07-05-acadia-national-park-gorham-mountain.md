@@ -1,14 +1,7 @@
 ---
 categories:
-- hiking
+- travel
 date: "2012-07-05T00:00:00Z"
-meta:
-  _edit_last: "1"
-  _thumbnail_id: "1230"
-  _wp_old_slug: acadia-national-park-gorham-mountain-trail
-  aktt_notify_twitter: "no"
-published: true
-status: publish
 tags:
 - acadia national park
 - hiking
@@ -85,95 +78,93 @@ The path wends its way between gigantic obstacles.
 
 Despite its short length (1.8 mile round-trip between the parking lot and the true summit), the Gorham Mountain trail offers unmatched views and a fun-filled side path for relatively little effort.
 
-<!-- Darkbox -->
-<div class="darkbox">
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5120.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5120.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5139.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5139.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5140.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5140.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5162.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5162.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5164.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5164.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5165.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5165.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5167.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5167.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5171.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5171.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5176.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5176.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5178.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5178.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5182.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5182.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5187.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5187.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5190.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5190.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5191.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5191.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5192.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5192.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5193.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5193.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5197.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5197.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5205.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5205.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5208.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5208.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5227.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5227.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5229.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5229.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5231.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5231.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5233.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5233.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5234.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5234.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5235.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5235.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5237.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5237.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5240.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5240.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5242.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5242.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5262.jpg" data-darkbox="acadia-gorham">
-  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/thumbs/dsc_5262.jpg" />
-</a>
+
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5120.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5139.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5140.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5162.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5164.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5165.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5167.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5171.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5176.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5178.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5182.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5187.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5190.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5191.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5192.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5193.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5197.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5205.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5208.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5227.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5229.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5231.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5233.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5234.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5235.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5237.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5240.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5242.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/acadia-gorham/dsc_5262.jpg" />
+</figure>
 
 </div>
-<!-- End darkbox -->

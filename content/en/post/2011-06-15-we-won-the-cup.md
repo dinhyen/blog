@@ -3,8 +3,7 @@ categories:
 - hockey
 date: "2011-06-15T00:00:00Z"
 tags:
-- Boston Bruins
-- Stanley Cup
+- boston bruins
 title: We won the Cup!
 ---
 Zdeno Chara grabbed hold of the Cup, reverently brought it to his lips, then raised it above his head, repeating a ritual performed by all previous Cup-winning captains. The only difference was that it had not been done by someone wearing the spoked-B since Nixon was President.  The events of this night surely sent Bruins fans everywhere into a delirium.  For the entire time that the Bruins celebrated on the ice, I had a stupidly wide grin on my face.  I am quite sure I wasn't the only one.

@@ -2,20 +2,10 @@
 categories:
 - technology
 date: "2011-12-08T00:00:00Z"
-meta:
-  _edit_last: "1"
-  _syntaxhighlighter_encoded: "1"
-  _wp_old_slug: automapper-behavior-for-clashing-properties
-  aktt_notify_twitter: "no"
-published: true
-status: publish
 tags:
 - asp.net mvc
-- automapper
 - c#
-- linq to sql
 title: AutoMapper doesn't work for mismatched types
-type: post
 ---
 We're using [AutoMapper](http://automapper.codeplex.com/) in ASP.NET MVC automate the mapping of properties between entity and view model objects.  This is a highly useful tool which helps us avoid the tedium of having to assigning properties manually.  Here's a good [introduction](http://lostechies.com/jimmybogard/2009/01/23/automapper-the-object-object-mapper/) to using AutoMapper.
 

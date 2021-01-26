@@ -3,8 +3,6 @@ categories:
 - technology
 date: "2012-03-31T00:00:00Z"
 tags:
-- plugin
-- tip
 - wordpress
 title: Using Lightbox with NextGen gallery
 ---

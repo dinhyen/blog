@@ -3,9 +3,6 @@ categories:
 - technology
 date: "2012-04-03T00:00:00Z"
 tags:
-- javascripts
-- jquery
-- tip
 - wordpress
 title: Loading jQuery from Google CDN and dependent scripts in WordPress
 ---

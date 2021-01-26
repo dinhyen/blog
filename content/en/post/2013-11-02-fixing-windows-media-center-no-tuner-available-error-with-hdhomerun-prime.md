@@ -1,8 +1,9 @@
 ---
 categories:
 - technology
-comments: true
 date: "2013-11-02T00:00:00Z"
+tags:
+- pc
 title: Fixing Windows Media Center No Tuner Available Error With HDHomeRun Prime
 ---
 I have the HDHomeRun Prime network tuner.  Recently, after a Verizon FiOS tech rebooted the ONT to fix a network issue, I got the dreaded `Viewing or Listening Conflict. No tuner available to satisfy the current request` error when trying to view Live TV in Windows Media Center.  When I tried Settings > Windows Media Center setup, I got the error:

@@ -3,10 +3,7 @@ categories:
 - technology
 date: "2012-02-09T00:00:00Z"
 tags:
-- brother
-- installation
-- printer
-- software
+- pc
 title: Configuring Wifi for the Brother HL-2280DW Laser Printer on Windows
 ---
 With laser printer, scanner, Ethernet and Wifi interface rolled into one, the Brother HL-2280DW is quite a little champ. However, for me, getting the Wifi to work was a bit of a challenge. The installer would die silently after configuring Wifi but without having installed the software. After some trial and error, I was able to successfully install for Ethernet . With the software installed, I was able to configure Wifi afterward. Additionally, I was able to set up a static IP address for the printer which isn't available from the installer. Here are the steps for getting Wifi to work.
@@ -83,59 +80,57 @@ For various reasons, I want the printer to use a static instead of dynamic IP ad
 * Back in Windows, the printer should show up as Ready. If not, try turning the printer off and on.
 
 <img src="http://yentran.isamonkey.org/gallery/brother-printer/printer-ready.png" alt="printer-ready" />
-<!-- Darkbox -->
-<div class="darkbox">
-<a href="http://yentran.isamonkey.org/gallery/brother-printer/control-printers-off.png" data-darkbox="brother-printer">
-  <img src="http://yentran.isamonkey.org/gallery/brother-printer/thumbs/control-printers-off.png" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/brother-printer/install-start.png" data-darkbox="brother-printer">
-  <img src="http://yentran.isamonkey.org/gallery/brother-printer/thumbs/install-start.png" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/brother-printer/port-setings.png" data-darkbox="brother-printer">
-  <img src="http://yentran.isamonkey.org/gallery/brother-printer/thumbs/port-setings.png" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/brother-printer/printer-offline.png" data-darkbox="brother-printer">
-  <img src="http://yentran.isamonkey.org/gallery/brother-printer/thumbs/printer-offline.png" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/brother-printer/printer-ports.png" data-darkbox="brother-printer">
-  <img src="http://yentran.isamonkey.org/gallery/brother-printer/thumbs/printer-ports.png" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/brother-printer/printer-properties.png" data-darkbox="brother-printer">
-  <img src="http://yentran.isamonkey.org/gallery/brother-printer/thumbs/printer-properties.png" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/brother-printer/printer-ready.png" data-darkbox="brother-printer">
-  <img src="http://yentran.isamonkey.org/gallery/brother-printer/thumbs/printer-ready.png" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/brother-printer/usb-connected.png" data-darkbox="brother-printer">
-  <img src="http://yentran.isamonkey.org/gallery/brother-printer/thumbs/usb-connected.png" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/brother-printer/wireless-connect.png" data-darkbox="brother-printer">
-  <img src="http://yentran.isamonkey.org/gallery/brother-printer/thumbs/wireless-connect.png" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/brother-printer/wireless-disconnect.png" data-darkbox="brother-printer">
-  <img src="http://yentran.isamonkey.org/gallery/brother-printer/thumbs/wireless-disconnect.png" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/brother-printer/wireless-finish.png" data-darkbox="brother-printer">
-  <img src="http://yentran.isamonkey.org/gallery/brother-printer/thumbs/wireless-finish.png" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/brother-printer/wireless-install.png" data-darkbox="brother-printer">
-  <img src="http://yentran.isamonkey.org/gallery/brother-printer/thumbs/wireless-install.png" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/brother-printer/wireless-notice.png" data-darkbox="brother-printer">
-  <img src="http://yentran.isamonkey.org/gallery/brother-printer/thumbs/wireless-notice.png" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/brother-printer/wireless-search.png" data-darkbox="brother-printer">
-  <img src="http://yentran.isamonkey.org/gallery/brother-printer/thumbs/wireless-search.png" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/brother-printer/wireless-ssid.png" data-darkbox="brother-printer">
-  <img src="http://yentran.isamonkey.org/gallery/brother-printer/thumbs/wireless-ssid.png" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/brother-printer/wireless-submit.png" data-darkbox="brother-printer">
-  <img src="http://yentran.isamonkey.org/gallery/brother-printer/thumbs/wireless-submit.png" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/brother-printer/wireless-wps.png" data-darkbox="brother-printer">
-  <img src="http://yentran.isamonkey.org/gallery/brother-printer/thumbs/wireless-wps.png" />
-</a>
+
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/brother-printer/control-printers-off.png" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/brother-printer/install-start.png" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/brother-printer/port-setings.png" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/brother-printer/printer-offline.png" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/brother-printer/printer-ports.png" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/brother-printer/printer-properties.png" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/brother-printer/printer-ready.png" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/brother-printer/usb-connected.png" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/brother-printer/wireless-connect.png" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/brother-printer/wireless-disconnect.png" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/brother-printer/wireless-finish.png" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/brother-printer/wireless-install.png" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/brother-printer/wireless-notice.png" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/brother-printer/wireless-search.png" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/brother-printer/wireless-ssid.png" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/brother-printer/wireless-submit.png" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/brother-printer/wireless-wps.png" />
+</figure>
 
 </div>
-<!-- End darkbox -->

@@ -3,8 +3,6 @@ categories:
 - technology
 date: "2012-05-10T00:00:00Z"
 tags:
-- backup
-- vdeck
 - wordpress
 title: Backing up your site with VDeck
 ---

@@ -5,9 +5,7 @@ date: "2011-09-07T00:00:00Z"
 tags:
 - book review
 - fantasy
-- novel
-- Pillars of Creation
-- Terry Goodkind
+- terry goodkind
 title: The Pillars of Creation (Sword of Truth series, Book 7) by Terry Goodkind
 ---
 <img class="pull-left" title="thepillarsofcreation" src="http://yentran.isamonkey.org/gallery/images/thepillarsofcreation-197x300.jpg" width="197" height="300" />Pillars of Creation follows the adventures of a young woman, Jennsen, illegitimate daughter of Darken Rahl, as she travels the world in search of escape and vengeance. She is aided by a spy of the Imperial Order who may be more than he appears to be. At the same time, Jennsen's unique ability may mean the end of all life, if she and Richard don't discover the truth in time.

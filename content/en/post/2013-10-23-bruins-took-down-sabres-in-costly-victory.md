@@ -2,6 +2,8 @@
 categories:
 - hockey
 date: "2013-10-23T00:00:00Z"
+tags:
+- boston bruins
 title: Bruins took down Sabres in costly victory
 ---
   

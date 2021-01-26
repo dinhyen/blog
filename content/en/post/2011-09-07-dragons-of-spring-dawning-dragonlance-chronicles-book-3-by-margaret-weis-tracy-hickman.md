@@ -5,11 +5,8 @@ date: "2011-09-07T00:00:00Z"
 tags:
 - book review
 - fantasy
-- Margaret Weis
-- novel
-- Tracy Hickman
-title: Dragons of Spring Dawning (Dragonlance Chronicles, Book 3) by Margaret Weis
-  & Tracy Hickman
+- margaret weis & tracy hickman
+title: Dragons of Spring Dawning (Dragonlance Chronicles, Book 3) by Margaret Weis & Tracy Hickman
 ---
 <img class="pull-left" title="DragonsofSpringDawning" src="http://yentran.isamonkey.org/gallery/images/dragonsofspringdawning.jpg" width="177" height="300" />After the setback at the end of book two, hope finally dawns on Krynn. For the rediscovered dragonlances and the return of the good metallic dragons are finally turning the tide of fortunes against the forces of darkness in the War of the Lance. In the north, under the leadership of a new general, none other than one of our familiar companions, victories follow victories, cities are retaken, enemy commanders are captured, and for a time, evil seems to be on the verge of defeat. Nevertheless, the Dark Lady has a devious ruse of her own that would deal a devastating blow to the forces of good from which they may not recover. Meanwhile, the other half of the sundered fellowship struggles to bring back the Silvanesti dragon orb and reunite with their friends. Their efforts are meaningless to Raistlin, who already have found a way to wield the power of the orb and whose mind may have turned to darkness. The end comes in a frantic rush as the companions fight to rescue their friends in the evil lair of Takhisis, prevent the Queen of Darkness from gaining corporeal existence in Krynn, and finally escape with their lives. All the while, the nightmare that they all shared in the twisted woods of Silvanesti would come back to haunt them in the waking world.
 

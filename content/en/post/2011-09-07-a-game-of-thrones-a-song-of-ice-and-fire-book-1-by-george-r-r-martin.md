@@ -4,8 +4,8 @@ categories:
 date: "2011-09-07T00:00:00Z"
 tags:
 - book review
-- Game of Thrones
-- George RR Martin
+- fantasy
+- george rr martin
 title: A Game of Thrones (A Song of Ice and Fire, Book 1) by George R.R. Martin
 ---
 <img class="pull-left" title="agameofthrones" src="http://yentran.isamonkey.org/gallery/images/agameofthrones-198x300.jpg" width="198" height="300" />George RR Martin's Song of Ice and Fire series receives almost universal acclaim from reviewers. I picked up A Game of Thrones after seeing it recommended by several reviewers. Since it is billed as the entry into an epic fantasy series, I half-expected to see a fantastic world populated by magic wielders and magical creations. Instead, I found that magic is virtually non-existent. Gritty, harsh realism is the predominant theme in Martin's medieval universe. In fact, this book reads more like historical documentary than fantasy fiction.

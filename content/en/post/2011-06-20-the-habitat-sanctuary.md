@@ -3,10 +3,7 @@ categories:
 - outdoors
 date: "2011-06-20T00:00:00Z"
 tags:
-- Broadmoor sanctuary
-- Habitat sanctuary
-- Ipswich River
-- Ipswich River sanctuary
+- audubon
 title: The Audubon Habitat sanctuary
 ---
 I've been discovering more and more of the amazing gems that are the Audubon sanctuaries.  Recently I visited the [Ipswich River sanctuary](http://www.massaudubon.org/Nature_Connection/Sanctuaries/Ipswich_River/index.php) and the [Broadmoor sanctuary](http://www.massaudubon.org/Nature_Connection/Sanctuaries/Broadmoor/index.php), both of which are amazing for the scenery and wildlife they contain.  Yet I'm surprised to learn that there are sanctuaries much closer to home, some right around the corner.  The [Habitat sanctuary](http://www.massaudubon.org/Nature_Connection/Sanctuaries/Habitat/index.php) is no more than 10 minutes from my place. I had biked or driven past this area before without knowing that it existed.  I would bet that it is also unknown to most of the thousands of commuters who ply busy Route 2 every day, just steps away from the sanctuary.
@@ -23,44 +20,42 @@ I'll have more to write about the Audubon sanctuaries in the future.
 
 <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0485.jpg" />
 <figcaption>A blue heron hunting in the Turtle Pond</figcaption>
-<!-- Darkbox -->
-<div class="darkbox">
-<a href="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0437.jpg" data-darkbox="audubon-habitat">
-  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/thumbs/dsc_0437.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0441.jpg" data-darkbox="audubon-habitat">
-  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/thumbs/dsc_0441.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0461.jpg" data-darkbox="audubon-habitat">
-  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/thumbs/dsc_0461.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0474.jpg" data-darkbox="audubon-habitat">
-  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/thumbs/dsc_0474.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0476.jpg" data-darkbox="audubon-habitat">
-  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/thumbs/dsc_0476.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0485.jpg" data-darkbox="audubon-habitat">
-  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/thumbs/dsc_0485.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0495.jpg" data-darkbox="audubon-habitat">
-  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/thumbs/dsc_0495.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0498.jpg" data-darkbox="audubon-habitat">
-  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/thumbs/dsc_0498.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0504.jpg" data-darkbox="audubon-habitat">
-  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/thumbs/dsc_0504.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0505.jpg" data-darkbox="audubon-habitat">
-  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/thumbs/dsc_0505.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0507.jpg" data-darkbox="audubon-habitat">
-  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/thumbs/dsc_0507.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0510.jpg" data-darkbox="audubon-habitat">
-  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/thumbs/dsc_0510.jpg" />
-</a>
+
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0437.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0441.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0461.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0474.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0476.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0485.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0495.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0498.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0504.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0505.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0507.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/audubon-habitat/dsc_0510.jpg" />
+</figure>
 
 </div>
-<!-- End darkbox -->

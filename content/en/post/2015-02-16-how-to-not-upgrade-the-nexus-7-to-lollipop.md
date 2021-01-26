@@ -1,8 +1,9 @@
 ---
 categories:
 - technology
-comments: true
 date: "2015-02-16T00:00:00Z"
+tags:
+- android
 title: How to not upgrade the Nexus 7 to Lollipop
 ---
 I have a first-generation Nexus 7 tablet made by Asus which ran KitKat 4.4.  When the OTA Lollipop update became available, I couldn't wait to install it.  The latest and greatest Android running on Google hardware seemed to be a match made in heaven; it would be better, prettier and faster, right?  As you can probably guess from the title of this post, the answer was a resounding *no*.  Everything became sluggish, swipes would only registered after a couple of seconds, random things popped open and close.  The tablet was downright unusable.

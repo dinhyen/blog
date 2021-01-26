@@ -3,8 +3,8 @@ categories:
 - travel
 date: "2011-05-30T00:00:00Z"
 tags:
-- Costa Rica
-- San Jose
+- city
+- costa rica
 title: Costa Rica Day 7 (Monday) - San Jose
 ---
 The flight was to be at 13:00 so we planned on departing no later than 10:30.  That left us about 1h after breakfast to explore downtown San Jose.  We were 4 blocks away from the Jade Museum, which owns the largest collection of Pre-Columbian jade artifacts anywhere. Unfortunately a museum was out of the question given the time constraint.
@@ -21,56 +21,54 @@ San Jose has its interesting sides, but we'd much prefer to be in the forest and
 <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/costa-rica-7-map.jpg" />
 <figcaption>A walk in downtown San Jose</figcaption>
 
-<!-- Darkbox -->
-<div class="darkbox">
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0935.jpg" data-darkbox="costa-rica-7">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/thumbs/dsc_0935.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0943.jpg" data-darkbox="costa-rica-7">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/thumbs/dsc_0943.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0949.jpg" data-darkbox="costa-rica-7">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/thumbs/dsc_0949.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0964(2).jpg" data-darkbox="costa-rica-7">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/thumbs/dsc_0964(2).jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0965(2).jpg" data-darkbox="costa-rica-7">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/thumbs/dsc_0965(2).jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0969(2).jpg" data-darkbox="costa-rica-7">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/thumbs/dsc_0969(2).jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0971(2).jpg" data-darkbox="costa-rica-7">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/thumbs/dsc_0971(2).jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0973(2).jpg" data-darkbox="costa-rica-7">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/thumbs/dsc_0973(2).jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0978(2).jpg" data-darkbox="costa-rica-7">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/thumbs/dsc_0978(2).jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0986(2).jpg" data-darkbox="costa-rica-7">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/thumbs/dsc_0986(2).jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0987(2).jpg" data-darkbox="costa-rica-7">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/thumbs/dsc_0987(2).jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0989(2).jpg" data-darkbox="costa-rica-7">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/thumbs/dsc_0989(2).jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0991(2).jpg" data-darkbox="costa-rica-7">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/thumbs/dsc_0991(2).jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0994(2).jpg" data-darkbox="costa-rica-7">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/thumbs/dsc_0994(2).jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0995(2).jpg" data-darkbox="costa-rica-7">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/thumbs/dsc_0995(2).jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0996(2).jpg" data-darkbox="costa-rica-7">
-  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/thumbs/dsc_0996(2).jpg" />
-</a>
+
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0935.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0943.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0949.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0964(2).jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0965(2).jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0969(2).jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0971(2).jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0973(2).jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0978(2).jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0986(2).jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0987(2).jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0989(2).jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0991(2).jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0994(2).jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0995(2).jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/costa-rica-7/dsc_0996(2).jpg" />
+</figure>
 
 </div>
-<!-- End darkbox -->

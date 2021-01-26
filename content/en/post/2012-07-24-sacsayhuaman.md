@@ -1,23 +1,12 @@
 ---
 categories:
-- outdoors
-- photography
 - travel
 date: "2012-07-24T00:00:00Z"
-meta:
-  _edit_last: "1"
-  _thumbnail_id: "1415"
-  _wp_old_slug: sacsayhuaman-peru
-  aktt_notify_twitter: "no"
-published: true
-status: publish
 tags:
-- architecture
 - inca
 - peru
 - ruins
 title: Sacsayhuamán, Peru (Day 4)
-type: post
 ---
 The largest Inca complex in Cusco is Sacsayhuamán, a walled fortress which stands on a hill overlooking the city.  It's believed that the Incas built the city of Cusco in the shape of a jaguar, with Sacsayhuamán representing the head (and the most formidable part) of the jaguar.  It may be hard to see it now, as the city has undergone dramatic changes in the intervening centuries.  But it's easy to see how the jagged outline of the walls bears remarkable resemblance to rows of teeth.
 
@@ -73,101 +62,99 @@ Cusco was turning on the lights, beckoning as we walked back to the city.  Once 
 
 Postscript: We had mentally prepared for jokes about Sacsayhuamán, which sounds suspiciously like "Sexy Woman".  Sadly, they never materialized.
 
-<!-- Darkbox -->
-<div class="darkbox">
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2092.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2092.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2093.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2093.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2096.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2096.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2097.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2097.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2102.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2102.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2126.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2126.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2131.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2131.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2132.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2132.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2133.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2133.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2138.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2138.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2140.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2140.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2146.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2146.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2148.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2148.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2151.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2151.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2154.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2154.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2155.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2155.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2158.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2158.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2160.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2160.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2163.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2163.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2186.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2186.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2196.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2196.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2199.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2199.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2202.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2202.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2204.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2204.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2205.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2205.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2207.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2207.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2210.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2210.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2211.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2211.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2216.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2216.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2218.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2218.jpg" />
-</a>
-<a href="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2229.jpg" data-darkbox="peru-sacsayhuaman">
-  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/thumbs/dsc_2229.jpg" />
-</a>
+
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2092.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2093.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2096.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2097.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2102.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2126.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2131.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2132.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2133.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2138.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2140.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2146.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2148.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2151.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2154.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2155.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2158.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2160.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2163.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2186.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2196.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2199.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2202.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2204.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2205.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2207.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2210.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2211.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2216.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2218.jpg" />
+</figure>
+<figure>
+  <img src="http://yentran.isamonkey.org/gallery/peru-sacsayhuaman/dsc_2229.jpg" />
+</figure>
 
 </div>
-<!-- End darkbox -->

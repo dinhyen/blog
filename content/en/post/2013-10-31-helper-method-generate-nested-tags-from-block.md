@@ -2,10 +2,12 @@
 categories:
 - technology
 date: "2013-10-31T00:00:00Z"
+tags:
+- rails
 title: Helper method to generate nested tags from block
 ---
   
-I'm still pretty new to Ruby. Hopefully one day I'll know enough to be able to look back and slap myself on the forehead for struggling with these issues.
+I'm still pretty new to Ruby on Rails. Hopefully one day I'll know enough to be able to look back and slap myself on the forehead for struggling with these issues.
 
 Right now our views generate a menu from a simple set of links:
 ``` erb
