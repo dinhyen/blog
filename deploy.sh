@@ -1,4 +1,5 @@
 #!/bin/sh
+# Usage ./deploy.sh ["Commit message"]
 
 # git submodule add --force -b master git@github.com:dinhyen/dinhyen.github.io.git public
 
@@ -7,14 +8,21 @@ set -e
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
+# Clean up deployment directory from past deployments
+cd public
+git reset HEAD --hard
+git clean -fd
+
+
 # Build the project.
+cd ../
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
 cd public
 
 # Add changes to git.
-git add .
+git add -A .
 
 # Commit changes.
 msg="rebuilding site $(date)"
